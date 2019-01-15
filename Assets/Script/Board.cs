@@ -11,8 +11,8 @@ public class Board : MonoBehaviour
 
     private const int hSquareCount = 9;
     private const int vSquareCount = 9;
-    private const int squareWidth = 40;
-    private const int squareHight = 40;
+    private const int squareWidth = 80;
+    private const int squareHight = 80;
 
     [SerializeField] private GameObject piece1;
     [SerializeField] private GameObject piece2;
